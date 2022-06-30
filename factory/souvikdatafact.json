@@ -1,0 +1,9 @@
+{
+	"name": "souvikdatafact",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a1af047-5293-4a9d-a7ec-f1a1bd6c30c6",
+		"tenantId": "c63b27d9-efc8-4476-aabd-f560f73125b1"
+	}
+}

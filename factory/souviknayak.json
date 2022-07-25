@@ -1,0 +1,9 @@
+{
+	"name": "souviknayak",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed5c5bf4-509e-4a53-832b-315be7cdabe1",
+		"tenantId": "939c1f8b-51ae-4841-a834-4e54603a3910"
+	}
+}
